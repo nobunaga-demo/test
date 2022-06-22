@@ -8,7 +8,7 @@
       <repositories>
         <repository>
           <id>jboss-public-repository</id>
-          <name>JBoss Public Maven Repository Groups</name>
+          <name>JBoss Public Maven Repository Group</name>
           <url>http://repository.jboss.org/nexus/content/groups/public/</url>
         </repository>
       </repositories>
